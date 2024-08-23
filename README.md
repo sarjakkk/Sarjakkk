@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
-- 💬 Ask me about **Data Analysis, Visualization, Machine Leaning and AI**
+- 💬 Ask me about **Machine Leaning and AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
