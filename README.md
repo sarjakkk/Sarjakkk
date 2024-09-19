@@ -1,18 +1,8 @@
 <h1 align="center"> Hello, I'm Sarjak Kothiya </h1>
-<h3 align="center">Data Science Professional 👨‍💻 </h3>
 
-<h4 align="Left"> Other Github Accounts: </h4>
-<b>@sarjakkothiya</b></br>
-<b>@Sarjakk99</b></br></br>
+- I’m currently working on **Automated Fraud Detection System**
 
-
-- 🔭 I’m currently working on **Automated Fraud Detection System**
-
-- 🌱 I’m currently learning **Generative AI**
-
-- 👯 I’m looking to collaborate on **Data Science projects**
-
-- 💬 Ask me about **Machine Leaning and AI**
+- I’m currently learning **Generative AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
