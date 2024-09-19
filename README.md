@@ -1,8 +1,6 @@
 <h1 align="center"> Hello, I'm Sarjak Kothiya </h1>
 
-- I’m currently working on **Automated Fraud Detection System**
-
-- I’m currently learning **Generative AI**
+- I’m currently working on **Automated Fraud Detection System** and learning **Generative AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
